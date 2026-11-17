@@ -1,5 +1,10 @@
 # Rafael Junior
 
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/Hardware-Suporte_Técnico-blue?style=for-the-badge
+https://img.shields.io/badge/BIOS-Regravação-orange?style=for-the-badge
+https://img.shields.io/badge/TI-Infraestrutura-green?style=for-the-badge
+
 **Manutenção de Hardware e Suporte em TI | Estudante de Engenharia da Computação**
 
 Sou estudante de Engenharia da Computação e atuo há 8 anos com manutenção de informática e suporte em TI. Tenho experiência em diagnóstico, manutenção preventiva e corretiva de computadores e notebooks, instalação e configuração do Windows, testes de componentes e upgrades.
