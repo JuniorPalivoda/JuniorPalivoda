@@ -1,9 +1,10 @@
 # Rafael Junior
 
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-https://img.shields.io/badge/Hardware-Suporte_Técnico-blue?style=for-the-badge
-https://img.shields.io/badge/BIOS-Regravação-orange?style=for-the-badge
-https://img.shields.io/badge/TI-Infraestrutura-green?style=for-the-badge
+🔧 Técnico em Hardware  
+💻 Suporte em TI  
+🎓 Engenharia da Computação  
+🖥️ Diagnóstico e Reparo de Computadores e Notebooks  
+🚀 Interesse em Hardware de Servidores
 
 **Manutenção de Hardware e Suporte em TI | Estudante de Engenharia da Computação**
 
