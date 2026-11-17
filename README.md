@@ -6,11 +6,11 @@ Sou estudante de Engenharia da Computação e atuo há 8 anos com manutenção d
 
 Busco identificar a causa dos problemas e apresentar soluções com clareza e transparência, considerando as necessidades do usuário e o custo-benefício de cada intervenção.
 
-## Objetivo profissional
+## Objetivo Profissional
 
 Direcionar meu desenvolvimento à manutenção de hardware de servidores e equipamentos empresariais, contribuindo para a disponibilidade e a confiabilidade da infraestrutura de TI.
 
-## Conhecimentos e experiência
+## Conhecimentos e Experiência
 
 - Diagnóstico de falhas de hardware e software.
 - Manutenção preventiva e corretiva de equipamentos de informática.
@@ -21,7 +21,7 @@ Direcionar meu desenvolvimento à manutenção de hardware de servidores e equip
 - Reparos de média complexidade em placas-mãe e noções de regravação de BIOS.
 - Avaliação de manutenção, atualização ou substituição de equipamentos.
 
-## Áreas de interesse e desenvolvimento
+## Áreas de Interesse e Desenvolvimento
 
 - Hardware de servidores e equipamentos empresariais.
 - Ferramentas de diagnóstico de fabricantes.
@@ -31,15 +31,25 @@ Direcionar meu desenvolvimento à manutenção de hardware de servidores e equip
 
 ## Idiomas
 
-- Português: nativo.
-- Inglês: básico.
+- Português: Nativo
+- Inglês: Básico
 
-## Presença profissional
+## Presença Profissional
 
-- [LinkedIn](https://www.linkedin.com/in/juniorpalivoda/)
-- [Instagram](https://www.instagram.com/rafaeljunior.lab/)
-- [YouTube](https://www.youtube.com/channel/UCTJmpbzC439j2j8MOdah3aw)
+- GitHub: [JuniorPalivoda](https://github.com/JuniorPalivoda)
+- LinkedIn: [juniorpalivoda](https://www.linkedin.com/in/juniorpalivoda/)
+- Instagram: [@rafaeljunior.lab](https://www.instagram.com/rafaeljunior.lab/)
+- YouTube: [Canal Rafael Junior](https://www.youtube.com/channel/UCTJmpbzC439j2j8MOdah3aw)
 
-## Projetos e registros técnicos
+## Projetos em Destaque
 
-Este espaço está sendo preparado para reunir futuros projetos, estudos e registros técnicos relacionados à minha formação e atuação profissional.
+Em breve serão adicionados projetos práticos relacionados a:
+
+- Diagnóstico e manutenção de hardware.
+- Infraestrutura de TI.
+- Estudos de Engenharia da Computação.
+- Automação e ferramentas de suporte técnico.
+
+## Projetos e Registros Técnicos
+
+Este espaço está sendo preparado para reunir projetos, estudos e registros técnicos relacionados à minha formação e atuação profissional.
